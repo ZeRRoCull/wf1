@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeRRoCull/wf1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZeRRoCull/wf1/issues"
+  },
+  "homepage": "https://github.com/ZeRRoCull/wf1#readme"
 }
